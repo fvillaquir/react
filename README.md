@@ -48,8 +48,8 @@ projects:
 01 twitter follow card: contains basic handling of states en effects
 02 tic tac toe: integrates local storage handling and other tweaks
 03 mouse follower: additional state handling and advances effect applications
-04 react prueba tecnica: integrating fetching to remote APIs handling, promise handling, custom hooks and E2E testing
-05 react buscador peliculas: implementing useMemo, useRef, useCallback and custom hooks to integrate third party test apis
+04 react prueba tecnica(testing free cat api fetching): integrating fetching to remote APIs handling, promise handling, custom hooks and E2E testing
+05 react buscador peliculas(testing free movie api db fetching): implementing useMemo, useRef, useCallback and custom hooks to integrate third party test apis
 
 Contributing
 Feel free to contribute by submitting issues, feature requests, or pull requests. Please ensure that your contributions adhere to the project's coding standards and guidelines.
