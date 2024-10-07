@@ -6,3 +6,4 @@ test 101
 test second line
 v1.0.1 -- -- --
 Well written test
+bug fix 1
